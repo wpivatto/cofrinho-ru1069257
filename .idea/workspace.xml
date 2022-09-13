@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="defe3e66-6e36-46bb-9f3c-cb7b515ec8ee" name="Changes" comment="Criação projeto">
-      <change beforePath="$PROJECT_DIR$/src/br/com/ru1069257/Cofrinho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/ru1069257/Cofrinho.java" afterDir="false" />
-    </list>
+    <list default="true" id="defe3e66-6e36-46bb-9f3c-cb7b515ec8ee" name="Changes" comment="Criação projeto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663087842134</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criação projeto">
+      <created>1663087971060</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663087971060</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
